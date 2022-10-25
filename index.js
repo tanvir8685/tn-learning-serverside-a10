@@ -14,6 +14,12 @@ app.get('/',(req,res)=>{
 });
 app.get('/courses',(req,res)=>{
     res.send(categories)
+});
+app.get('/courses/:id',(req,res)=>{
+    const id=req.params.id;
+    const selectedSub=categories.find(sub=>sub.course_id===id);
+    res.send(selectedSub);
+    console.log()
 })
 app.listen(port,()=>{
     console.log('tn-learning Server running at port ',port)
