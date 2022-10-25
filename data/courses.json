@@ -1,0 +1,26 @@
+[
+    {
+       "course_id":"1",
+       "course_name":"Bangla"
+    },
+    {
+        "course_id":"2",
+        "course_name":"English"
+     },
+     {
+        "course_id":"3",
+        "course_name":"Math"
+     },
+     {
+        "course_id":"4",
+        "course_name":"Physics"
+     },
+     {
+        "course_id":"5",
+        "course_name":"Chemistry"
+     },
+     {
+        "course_id":"6",
+        "course_name":"Biology"
+     }
+]
