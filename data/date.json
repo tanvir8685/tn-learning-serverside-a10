@@ -1,0 +1,34 @@
+[
+    {
+        "course_id":"1",
+        "course_name":"Bangla",
+        "date":"15/12/22"
+    },
+    {
+        "course_id":"2",
+        "course_name":"English",
+        "date":"17/12/22"
+    },
+    {
+        "course_id":"3",
+        "course_name":"Math",
+        "date":"10/12/22"
+
+    },
+    {
+        "course_id":"4",
+        "course_name":"Physics",
+        "date":"15/12/22"
+    },
+    {
+        "course_id":"5",
+        "course_name":"Chemistry",
+        "date":"17/12/22"
+    },
+    {
+        "course_id":"6",
+        "course_name":"Biology",
+        "date":"10/12/22"
+
+    }
+]
